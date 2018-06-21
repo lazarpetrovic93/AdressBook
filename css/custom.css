@@ -1,0 +1,9 @@
+#loaderIMG {
+  left: 50%;
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  top:120px;
+  margin: 50px auto 50px auto;
+  /* display: none; */
+}
